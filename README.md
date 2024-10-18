@@ -1,7 +1,7 @@
 # StudenList-with-js
 
 
-![viewfinal](https://github.com/user-attachments/assets/928cbf78-31ac-4aed-a171-e122398cbd49)
+![viewfinal](https://github.com/user-attachments/assets/b35ec5c0-bdf4-4a4e-b675-e78793a24233)
 
 - [Demo Project]( https://fatemeabdolmaleki.github.io/StudenList-with-js/)
 
